@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841715238138",
+    "project_id": "ispaylasma",
+    "storage_bucket": "ispaylasma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841715238138:android:e465ab7caf9a4df832b543",
+        "android_client_info": {
+          "package_name": "com.example.ispaylasmauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841715238138-1jnn1sujd3rlesuvpsr6teq8cdkopake.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-w2_2UA8YiOZa0WaurtJsg6chrEP1v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841715238138-1jnn1sujd3rlesuvpsr6teq8cdkopake.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
